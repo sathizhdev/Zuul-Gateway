@@ -1,4 +1,4 @@
-package com.application.zuulproxy;
+package com.application.zuulproxy.com.application.zuulproxy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

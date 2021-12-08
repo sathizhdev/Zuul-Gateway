@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "routes.Login-service.path",
+    "type": "java.lang.String",
+    "description": "A description for 'routes.Login-service.path'"
+  },
+  {
+    "name": "routes.Login-service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'routes.Login-service.url'"
+  }
+]}
